@@ -1,0 +1,10 @@
+{
+  "resources": [
+    {
+      "name": "Live COVID-19 Statistics",
+      "link": "http://www.covid.gov.pk/",
+      "organization": "Government of Pakistan"
+    }
+  ],
+  "twitterFeed": "minhealthnz"
+}
