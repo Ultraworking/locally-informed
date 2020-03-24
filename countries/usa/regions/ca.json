@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "name": "Coronavirus (COVID-19) in California",
+      "link": "https://covid19.ca.gov/",
+      "organization": "California State Government"
+    },
+    {
+      "name": "COVID-19 Updates",
+      "link": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx",
+      "organization": "California Department of Public Health"
+    }
+  ],
+  "twitterFeed": "CAgovernor"
+}
