@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "name": "COVID-19 Situation Update",
+      "link": "https://www.pmo.gov.my/2020/03/2019-ncov-novel-coronavirus-updates/",
+      "organization": "Malaysian PM's Office"
+    },
+    {
+      "name": "COVID-19 Latest Updates",
+      "link": "http://www.moh.gov.my/index.php/pages/view/2274/en",
+      "organization": "Ministry of Health Malaysia"
+    }
+  ],
+  "twitterFeed": "KKMPutrajaya"
+}
