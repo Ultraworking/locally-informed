@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "name": "[name of the resource, (Example — Coronavirus (COVID-19) in California)]",
+      "link": "[link to the resource, (Example — https://covid19.ca.gov/)]",
+      "organization": "[name of the organisation that published the resource, (Example — California State Government)]"
+    },
+    {
+      "name": "",
+      "link": "",
+      "organization": ""
+    }
+  ],
+  "twitterFeed": "[Twitter handle without the @, (Example — CAgovernor]. Note — only 1 is currently supported."
+}

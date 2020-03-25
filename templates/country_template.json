@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "name": "[name of the resource, (Example — Coronavirus (COVID-19))]",
+      "link": "[link to the resource, (Example — https://www.coronavirus.gov/)]",
+      "organization": "[name of the organisation that published the resource, (Example — US Government)]"
+    },
+    {
+      "name": "",
+      "link": "",
+      "organization": ""
+    }
+  ],
+  "twitterFeed": "[Twitter handle without the @, (Example — CDCGov]. Note — only 1 is currently supported."
+}
