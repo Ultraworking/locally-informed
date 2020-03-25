@@ -1,5 +1,17 @@
 # Locally Informed — Regional Data Sources
 
+These are dark times and unfortunately the internet is rife with false information from unverified sources which is spreading paranoia.
+
+[Locally Informed](https://local.quarantinesupport.com/) is a module within [Quarantine Support](https://quarantinesupport.com/), an initiative started by us at [Ultraworking](https://ultraworking.com/) to ensure that the correct information regarding COVID-19 gets filtered down to Netizens.
+
+We have opened Locally Informed to crowdsource data — this means that if you have access to the proper data sources in your city, state or country, and you are a little bit tech-savvy, you can make a contribution to Locally Informed, (_the instructions are below_), and help ensure that the people in your area are as well informed as you are.
+
+Remember, we are only as strong as our weakest link in our fight against this Pandemic.
+
+**Parati Servire — we are here to serve.**
+
+— The Ultraworking Team
+
 ## Directory Structure
 
 ![Directory Structure](https://i.ibb.co/5F1XZV1/Screenshot-2020-03-25-at-10-33-55-AM.png)
