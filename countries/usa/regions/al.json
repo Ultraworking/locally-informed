@@ -1,0 +1,24 @@
+{
+  "resources": [
+    {
+      "name": "Alabama COVID-19 Resources",
+      "link": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+      "organization": "Alabama Dept of Health"
+    },
+    {
+      "name": "Alabama COVID-19 Case Dashboard",
+      "link": "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7",
+      "organization": "Alabama Dept of Health"
+    },
+	{
+	  "name": "Alabama Governor Twitter Feed",
+      "link": "https://twitter.com/GovernorKayIvey",
+      "organization": "Alabama Governor's Office"
+	},
+	{
+	  "name": "Alabama Dept of Health Twitter Feed",
+      "link": "https://twitter.com/ALPublicHealth",
+      "organization": "Alabama State Dept of Health"
+	},
+  ]
+}
