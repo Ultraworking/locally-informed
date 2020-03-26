@@ -1,0 +1,24 @@
+  {
+    "resources": [
+      {
+        "name": "Coronavirus Disease 2019",
+        "link": "http://austintexas.gov/COVID19",
+        "organization": "City of Austin"
+      },
+      {
+        "name": "COVID-19 (new coronavirus) News",
+        "link": "https://www.dshs.texas.gov/news/updates.shtm#coronavirus",
+        "organization": "Texas Department of State Health Services"
+      },
+      {
+        "name": "Texas Case Counts",
+        "link": "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83",
+        "organization": "Texas Department of State Health Services"
+      },
+      {
+        "name": "Emergency Information",
+        "link": "https://www.traviscountytx.gov/emergency",
+        "organization": "Travis County"
+      },
+    ]
+  }
