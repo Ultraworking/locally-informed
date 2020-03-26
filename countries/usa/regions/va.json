@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "name": "Coronavirus (COVID-19) In Virginia",
+      "link": "https://www.virginia.gov/coronavirus-updates/",
+      "organization": "Virginia State Government"
+    },
+    {
+      "name": "COVID-19 Updates",
+      "link": "http://www.vdh.virginia.gov/coronavirus/",
+      "organization": "Virginia Department of Health"
+    },
+    {
+      "name": "COVID-19 Retail Relief",
+      "link": "https://virginiaretailfederation.com/resources/coronavirus-covid-19-resources",
+      "organization": "Virginia Retail Federation"
+    },
+    {
+      "name": "Arlington County COVID-19 Updates",
+      "link": "http://www.vdh.virginia.gov/coronavirus/",
+      "organization": "Arlington County Virginia Government"
+    },
+    {
+      "name": "Arlington County Coronavirus Resources",
+      "link": "https://www.arlingtonchamber.org/coronavirus-resources.html",
+      "organization": "Arlington Chamber of Commerce"
+    }
+  ],
+  "twitterFeed": "GovernorVA"
+}
