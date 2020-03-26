@@ -1,10 +1,14 @@
 {
   "resources": [
     {
-      "name": "Colorado COVID-19 landing page",
+      "name": "Colorado COVID-19",
       "link": "https://covid19.colorado.gov/",
-      "organization": "Colorado state government"
+      "organization": "Colorado State Government"
+    },
+    {
+      "name": "Colorado Governor's Office Twitter Feed",
+      "link": "https://twitter.com/GovofCO",
+      "organization": "Governor of Colorado"
     }
-  ],
-  "twitterFeed": "GovofCO"
+  ]
 }
