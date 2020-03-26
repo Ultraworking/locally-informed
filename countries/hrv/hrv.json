@@ -1,0 +1,19 @@
+{
+  "resources": [
+    {
+      "name": "Koronavirus – najnovije preporuke",
+      "link": "https://www.hzjz.hr/sluzba-epidemiologija-zarazne-bolesti/koronavirus-najnovije-preporuke/",
+      "organization": "Hrvatski zavod za javno zdravstvo"
+    },
+    {
+      "name": "Koronavirus – najnoviji podatci",
+      "link": "https://www.hzjz.hr/priopcenja-mediji/koronavirus-najnoviji-podatci/",
+      "organization": "Hrvatski zavod za javno zdravstvo"
+    },
+    {
+      "name": "Epidemija pneumonije/akutne respiratorne bolesti uzrokovane novim koronavirusom, Kina",
+      "link": "https://www.hzjz.hr/sluzba-epidemiologija-zarazne-bolesti/epidemija-pneumonije-povezana-s-novim-koronavirusom-kina/",
+      "organization": "Hrvatski zavod za javno zdravstvo"
+    }
+  ]
+}
