@@ -3,7 +3,7 @@
 
 Covid-19 is causing considerable disruption worldwide and a lot of people don't know where to find information about the measures taken by their local governments.
 
-We created Locally Informed to help people identify all the key information cities relevant to their city, state/province, and nation. 
+We created Locally Informed to help people identify all the key information relevant to their city, state/province, and nation. 
 
 Users can go to [local.quarantinesupport.com](https://local.quarantinesupport.com) to find all their relevant official sources. This is useful for people to get dialed-in to the right information sources and for other application developers, media, and institutions to help people stay on top of announcements for their region.
 
