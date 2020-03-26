@@ -1,16 +1,22 @@
-# Locally Informed — Regional Data Sources
+# Locally Informed — Official Resources by Location
 
-These are dark times and unfortunately the internet is rife with false information from unverified sources which is spreading paranoia.
 
-[Locally Informed](https://local.quarantinesupport.com/) is a module within [Quarantine Support](https://quarantinesupport.com/), an initiative started by us at [Ultraworking](https://ultraworking.com/) to ensure that the correct information regarding COVID-19 gets filtered down to Netizens.
+Covid-19 is causing considerable disruption worldwide and a lot of people don't know where to find information about the measures taken by their local governments.
 
-We have opened Locally Informed to crowdsource data — this means that if you have access to the proper data sources in your city, state or country, and you are a little bit tech-savvy, you can make a contribution to Locally Informed, (_the instructions are below_), and help ensure that the people in your area are as well informed as you are.
+We created Locally Informed to help people identify all the key information cities relevant to their city, state/province, and nation. 
 
-Remember, we are only as strong as our weakest link in our fight against this Pandemic.
+Users can go to [local.quarantinesupport.com](https://local.quarantinesupport.com) to find all their relevant official sources. This is useful for people to get dialed-in to the right information sources and for other application developers, media, and institutions to help people stay on top of announcements for their region.
 
-**Parati Servire — we are here to serve.**
+We're crowdsourcing the official information by location right now — you can make a difference by adding your local data and telling others about the project. This project was led up by Ultraworking's CTO Lee Knowlton — we're turning all our attention to helping people effected by lockdown, quarantine, and who have disrupted routines during the Pandemic.
 
-— The Ultraworking Team
+It only takes 5-10 minutes to update data and can make a considerable difference in helping people get informed.
+
+Our motto for this time period is "Parati Servire" — **we're here to serve.**
+
+Thank you for helping and for spreading the word. Stay safe and strong out there,
+
+Lee Knowlton
+CTO, Ultraworking
 
 ## Directory Structure
 
