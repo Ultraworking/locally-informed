@@ -1,0 +1,20 @@
+{
+  "resources": [
+    {
+      "name": "Illinois Department of Public Health (IDPH) - COVID-19",
+      "link": "http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus",
+      "organization": "Illinois Department of Public Health"
+    },
+    {
+      "name": "State of Illinois Coronovirus (COVID-19) Response",
+      "link": "http://coronavirus.illinois.gov/",
+      "organization": "State of Illinois"
+    },
+    {
+      "name": "Cook County Department of Public Health (CCDPH) Twitter",
+      "link": "https://twitter.com/CookCoHealth",
+      "organization": "Cook County Department of Public Health (CCDPH) Twitter"
+    }
+  ],
+  "twitterFeed": "IDPH"
+}
