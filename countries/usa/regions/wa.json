@@ -9,7 +9,11 @@
       "name": "Washington State Department of Health Main Page",
       "link": "https://www.doh.wa.gov/",
       "organization": "Washington State Department of Health"
+    },
+    {
+      "name": "Washington State Department of Health Twitter Feed",
+      "link": "https://twitter.com/WADeptHealth",
+      "organization": "Washington State Department of Health"
     }
-  ],
-  "twitterFeed": "WADeptHealth"
+  ]
 }
