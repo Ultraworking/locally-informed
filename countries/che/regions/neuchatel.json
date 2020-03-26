@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "name": "[name of the resource, (Example — Coronavirus (COVID-19) in California)]",
+      "link": "[link to the resource, (Example — https://covid19.ca.gov/)]",
+      "organization": "[name of the organisation that published the resource, (Example — California State Government)]"
+    },
+    {
+      "name": "Coronavirus COVID-19 - République et canton de Neuchâtel",
+      "link": "https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Coronavirus.aspx",
+      "organization": "République et canton de Neuchâtel"
+    }
+  ],
+  "twitterFeed": "Etat_Neuchatel"
+}
