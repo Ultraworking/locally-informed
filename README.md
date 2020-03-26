@@ -7,7 +7,7 @@ We created Locally Informed to help people identify all the key information rele
 
 Users can go to [local.quarantinesupport.com](https://local.quarantinesupport.com) to find all their relevant official sources. This is useful for people to get dialed-in to the right information sources and for other application developers, media, and institutions to help people stay on top of announcements for their region.
 
-We're crowdsourcing the official information by location right now — you can make a difference by adding your local data and telling others about the project. This project was led up by Ultraworking's CTO Lee Knowlton — we're turning all our attention to helping people effected by lockdown, quarantine, and who have disrupted routines during the Pandemic.
+We're crowdsourcing the official information by location right now — you can make a difference by adding your local data and telling others about the project. This project was led up by Ultraworking's CTO, Lee Knowlton — we're turning all our attention to helping people affected by lockdown, quarantine, and who have disrupted routines during the Pandemic.
 
 It only takes 5-10 minutes to update data and can make a considerable difference in helping people get informed.
 
