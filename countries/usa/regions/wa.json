@@ -1,6 +1,21 @@
 {
   "resources": [
     {
+      "name": "WA State Tax Relief for Small Businesses",
+      "link": "https://dor.wa.gov/taxrelief",
+      "organization": "Washington Department of Revenue"
+    },
+    {
+      "name": "Governer Inslee COVID-19 Resources",
+      "link": "https://www.governor.wa.gov/issues/issues/covid-19-resources/covid-19-resources-businesses-and-workers",
+      "organization": "Washington State Governer's Office"
+    },
+    {
+      "name": "Washington State Coronavirus Response",
+      "link": "https://www.coronavirus.wa.gov/",
+      "organization": "Washington State Government"
+    },
+    }
       "name": "Washington State Department of Health COVID-19 Landing Page",
       "link": "https://www.doh.wa.gov/Emergencies/Coronavirus",
       "organization": "Washington State Department of Health"
