@@ -1,0 +1,35 @@
+{
+  "resources": [
+    {
+      "name": "Texas COVID-19 Resources",
+      "link": "https://texas.gov/#covid19",
+      "organization": "Texas State Government"
+    },
+    {
+      "name": "Department of State Health Services Resources",
+      "link": "https://dshs.texas.gov/coronavirus/",
+      "organization": "Texas Department of State Health Services"
+    },
+    {
+      "name": "Austin Resources and Information",
+      "link": "http://www.austintexas.gov/COVID19",
+      "organization": "City of Austin"
+    },
+    {
+      "name": "Dallas Resources and Information",
+      "link": "https://dallascityhall.com/Pages/Corona-Virus.aspx",
+      "organization": "City of Dallas"
+    },
+    {
+      "name": "Houston Resources and Information",
+      "link": "https://www.houstonoem.org/covid19/",
+      "organization": "City of Houston"
+    },
+    {
+      "name": "San Antonio Resources and Information",
+      "link": "https://www.sanantonio.gov/Health/News/Alerts/CoronaVirus",
+      "organization": "City of San Antonio"
+    }
+  ],
+  "twitterFeed": "GregAbbott_TX"
+}
