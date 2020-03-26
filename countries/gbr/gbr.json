@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "name": "Coronavirus (COVID-19)",
+      "link": "https://www.gov.uk/coronavirus",
+      "organization": "UK Government"
+    },
+    {
+      "name": "Coronavirus (COVID-19) NHS Advice",
+      "link": "https://www.nhs.uk/conditions/coronavirus-covid-19/",
+      "organization": "NHS"
+    }
+  ],
+  "twitterFeed": "phe_uk"
+}
