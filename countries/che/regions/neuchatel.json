@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "name": "Coronavirus COVID-19 - République et canton de Neuchâtel",
+      "link": "https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Coronavirus.aspx",
+      "organization": "République et canton de Neuchâtel"
+    },
+    {
+      "name": "Canton de Neuchâtel Twitter Feed",
+      "link": "https://twitter.com/Etat_Neuchatel",
+      "organization": "Canton de Neuchâtel"
+    }
+  ],
+  "twitterFeed": "Etat_Neuchatel"
+}

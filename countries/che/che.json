@@ -1,0 +1,10 @@
+{
+  "resources": [
+    {
+      "name": "New coronavirus",
+      "link": "https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html",
+      "organization": "Federal Office of Public Health"
+    }
+  ],
+  "twitterFeed": "BAG_OFSP_UFSP"
+}
