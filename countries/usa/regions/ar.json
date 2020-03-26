@@ -1,0 +1,19 @@
+{
+  "resources": [
+    {
+      "name": "Arkansas COVID-19 Resources",
+      "link": "https://www.healthy.arkansas.gov/programs-services/topics/covid-19-resources",
+      "organization": "Arkansas Dept of Health"
+    },
+	{
+	  "name": "Arkansas Governor Twitter Feed",
+      "link": "https://twitter.com/AsaHutchinson",
+      "organization": "Arkansas Governor's Office"
+	},
+	{
+	  "name": "Arkansas Dept of Health Twitter Feed",
+      "link": "https://twitter.com/ADHPIO",
+      "organization": "Arkansas State Dept of Health"
+	},
+  ]
+}

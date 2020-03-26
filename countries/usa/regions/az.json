@@ -1,0 +1,24 @@
+{
+  "resources": [
+    {
+      "name": "Arizona COVID-19 Resources",
+      "link": "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home",
+      "organization": "Arizona State Government"
+    },
+	    {
+      "name": "Arizona COVID-19 Recursos en Español",
+      "link": "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/es/covid-19/index.php#novel-coronavirus-home",
+      "organization": "Arizona State Government"
+    },
+	{
+	  "name": "Arizona Governor Twitter Feed",
+      "link": "https://twitter.com/dougducey",
+      "organization": "Arizona Governor's Office"
+	},
+	{
+	  "name": "Arizona Dept of Health Twitter Feed",
+      "link": "https://twitter.com/azdhs",
+      "organization": "Arizona State Dept of Health"
+	},
+  ]
+}
