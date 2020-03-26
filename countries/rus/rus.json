@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "name": "Coronavirus (COVID-19) FAQ",
+      "link": "https://www.rosminzdrav.ru/ministry/covid19",
+      "organization": "Russian Government"
+    },
+    {
+      "name": "Map of affected regions by Coronavirus",
+      "link": "https://yandex.ru/web-maps/covid19",
+      "organization": "Yandex"
+    }
+  ],
+  "twitterFeed": "GovernmentRF"
+}
