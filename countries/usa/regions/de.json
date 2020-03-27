@@ -1,0 +1,19 @@
+{
+  "resources": [
+    {
+      "name": "Delaware COVID-19 Resources",
+      "link": "https://coronavirus.delaware.gov/",
+      "organization": "Delaware State Government"
+    },
+	{
+	  "name": "Delaware Governor Twitter Feed",
+      "link": "https://twitter.com/JohnCarneyDE",
+      "organization": "Delaware Governor's Office"
+	},
+	{
+	  "name": "Delaware Dept of Health Twitter Feed",
+      "link": "https://twitter.com/delaware_dhss",
+      "organization": "Delaware Dept of Health"
+	},
+  ]
+}
