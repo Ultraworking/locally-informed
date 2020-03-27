@@ -9,7 +9,11 @@
       "name": "COVID - 19 STATUS IN KARNATAKA : DASHBOARD",
       "link": "https://karunadu.karnataka.gov.in/hfw/kannada/Pages/covid19-db.aspx",
       "organization": "Government Of Karnataka"
+    },
+    {
+      "name": "Ministry of Health India Twitter Feed",
+      "link": "https://twitter.com/MoHFW_INDIA",
+      "organization": "Ministry of Health India"
     }
-  ],
-  "twitterFeed": "MoHFW_INDIA"
+  ]
 }
