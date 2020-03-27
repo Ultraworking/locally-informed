@@ -10,15 +10,15 @@
       "link": "https://alpublichealth.maps.arcgis.com/apps/opsdashboard/index.html#/6d2771faa9da4a2786a509d82c8cf0f7",
       "organization": "Alabama Dept of Health"
     },
-	{
-	  "name": "Alabama Governor Twitter Feed",
+    {
+      "name": "Alabama Governor Twitter Feed",
       "link": "https://twitter.com/GovernorKayIvey",
       "organization": "Alabama Governor's Office"
-	},
-	{
-	  "name": "Alabama Dept of Health Twitter Feed",
+    },
+    {
+      "name": "Alabama Dept of Health Twitter Feed",
       "link": "https://twitter.com/ALPublicHealth",
       "organization": "Alabama State Dept of Health"
-	},
+    }
   ]
 }

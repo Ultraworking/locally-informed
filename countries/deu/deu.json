@@ -11,16 +11,15 @@
       "organization": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe"
     },
     {
-        "name": "Tipps bei häuslicher Quarantäne",
-        "link": "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Tipps_%20haeusliche_Quarantaene.pdf?__blob=publicationFile",
-        "organization": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe"
+      "name": "Tipps bei häuslicher Quarantäne",
+      "link": "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Tipps_%20haeusliche_Quarantaene.pdf?__blob=publicationFile",
+      "organization": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe"
     },
     {
-        "name": "Informationen zum neuartigen Coronavirus / Covid-19",
-        "link": "https://www.infektionsschutz.de/coronavirus/",
-        "organization": "Bundeszentrale für Gesundheitliche Aufklärung"
+      "name": "Informationen zum neuartigen Coronavirus / Covid-19",
+      "link": "https://www.infektionsschutz.de/coronavirus/",
+      "organization": "Bundeszentrale für Gesundheitliche Aufklärung"
     }
-
   ],
   "twitterFeed": "BMG_Bund"
 }
