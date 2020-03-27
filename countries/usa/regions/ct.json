@@ -1,0 +1,19 @@
+{
+  "resources": [
+    {
+      "name": "Connecticut COVID-19 Resources",
+      "link": "https://portal.ct.gov/coronavirus",
+      "organization": "Connecticut State Government"
+    },
+	{
+	  "name": "Connecticut Governor Twitter Feed",
+      "link": "https://twitter.com/GovNedLamont",
+      "organization": "Connecticut Governor's Office"
+	},
+	{
+	  "name": "Connecticut Dept of Health Twitter Feed",
+      "link": "https://twitter.com/ctdph",
+      "organization": "Connecticut Dept of Health"
+	},
+  ]
+}
