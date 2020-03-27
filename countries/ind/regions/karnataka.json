@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "name": "KARNATAKA COVID-19 QUARANTINE TRACKER",
+      "link": "https://www.quarantime.in",
+      "organization": "Quarantime"
+    },
+    {
+      "name": "COVID - 19 STATUS IN KARNATAKA : DASHBOARD",
+      "link": "https://karunadu.karnataka.gov.in/hfw/kannada/Pages/covid19-db.aspx",
+      "organization": "Government Of Karnataka"
+    }
+  ],
+  "twitterFeed": "MoHFW_INDIA"
+}

@@ -1,0 +1,32 @@
+{
+  "resources": [
+    {
+      "name": "India Dashboard",
+      "link": "https://covindia.netlify.com",
+      "organization": "Netlify"
+    },
+    {
+      "name": "India Fights Corona",
+      "link": "https://www.mygov.in/covid-19/",
+      "organization": "Government of India"
+    },
+    {
+      "name": "Ministry of Health and Family Welfare | GOI",
+      "link": "https://www.mohfw.gov.in",
+      "organization": "Government of India"
+    },
+    {
+      "name": "Ministry of External Affairs, Government of India.",
+      "link": "https://mea.gov.in/covid-19-updates.htm",
+      "organization": "Government of India"
+    },
+    {
+      "name": "Indian Council Of Medical Research",
+      "link": "https://www.icmr.nic.in/content/covid-19",
+      "organization": "ICMR- New Delhi"
+    }
+  ],
+  "twitterFeed": "mygovindia"
+}
+
+
