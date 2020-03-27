@@ -19,6 +19,6 @@ jobs:
         run: |
           git config --global user.name 'Saad'
           git config --global user.email 'saad@ultraworking.com'
-          git remote set-url origin https://x-access-token:${{ secrets.SAAD_TOKEN }}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${{ secrets.SAAD_TOKEN }}@github.com/Ultraworking/locally-informed
           git commit -am "Automated Style changes"
           git push
