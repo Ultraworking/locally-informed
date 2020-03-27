@@ -1,0 +1,19 @@
+{
+  "resources": [
+    {
+      "name": "Alaska COVID-19 Resources",
+      "link": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx",
+      "organization": "Alaska Dept of Health"
+    },
+	{
+	  "name": "Alaska Governor Twitter Feed",
+      "link": "https://twitter.com/GovDunleavy",
+      "organization": "Alaska Governor's Office"
+	},
+	{
+	  "name": "Alaska Dept of Health Twitter Feed",
+      "link": "https://twitter.com/alaska_dhss",
+      "organization": "Alaska State Dept of Health"
+	},
+  ]
+}
