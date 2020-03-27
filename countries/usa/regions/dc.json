@@ -1,0 +1,19 @@
+{
+  "resources": [
+    {
+      "name": "District of Columbia COVID-19 Resources",
+      "link": "https://coronavirus.dc.gov/",
+      "organization": "District of Columbia Municipal Government"
+    },
+	{
+	  "name": "District of Columbia Mayor Twitter Feed",
+      "link": "https://twitter.com/MayorBowser",
+      "organization": "District of Columbia Governor's Office"
+	},
+	{
+	  "name": "District of Columbia Dept of Health Twitter Feed",
+      "link": "https://twitter.com/_dchealth",
+      "organization": "District of Columbia Dept of Health"
+	}
+  ]
+}
