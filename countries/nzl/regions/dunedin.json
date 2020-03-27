@@ -1,0 +1,14 @@
+{
+  "resources": [
+    {
+      "name": "Dunedin City Council COVID-19 Information",
+      "link": "https://www.dunedin.govt.nz/news-and-events/public-notices/COVID-19-information",
+      "organization": "Dunedin City Council"
+    },
+    {
+      "name": "Dunedin City Council Twitter Feed",
+      "link": "https://twitter.com/DnCityCouncil",
+      "organization": "Dunedin City Council"
+    }
+  ],
+}
