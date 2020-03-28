@@ -1,0 +1,10 @@
+{
+  "resources": [
+    {
+      "name": "Información actualizada sobre COVID-19",
+      "link": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm",
+      "organization": "Ministerio de Sanidad, Consumo y Bienestar Social"
+    }
+  ],
+  "twitterFeed": "sanidadgob"
+}

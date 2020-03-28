@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "name": "Coronavirus COVID-19 – Latest Updates in English",
+      "link": "https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates",
+      "organization": "Finnish Institute for health and welfare"
+    },
+    {
+      "name": "Ajankohtaista koronaviruksesta",
+      "link": "https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19",
+      "organization": "Terveyden ja hyvinvoinnin laitos"
+    }
+  ],
+  "twitterFeed": "THLorg"
+}
