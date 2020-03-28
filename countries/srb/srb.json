@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "name": "Ministry of Health",
+      "link": "https://www.zdravlje.gov.rs/",
+      "organization": "Goverment of Serbia"
+    },
+    {
+      "name": "Covid-19 page from Institute of public health",
+      "link": "https://covid19.rs/",
+      "organization": "Goverment of Serbia"
+    }
+  ],
+  "twitterFeed": ""
+}
