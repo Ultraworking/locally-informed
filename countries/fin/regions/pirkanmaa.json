@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "name": "Koronavirus (COVID-19)",
+      "link": "https://www.tays.fi/korona",
+      "organization": "Tampereen yliopistollinen sairaala - Tampere University Hospital"
+    },
+    {
+      "name": "Coronavirus COVID-19",
+      "link": "https://www.tays.fi/en-US",
+      "organization": "Tampereen yliopistollinen sairaala - Tampere University Hospital"
+    },
+    {
+      "name": "Koronavirus",
+      "link": "https://www.tampere.fi/sosiaali-ja-terveyspalvelut/terveyspalvelut/koronavirus.html",
+      "organization": "Tampereen Kaupunki - Sosiaali- sosiaali-ja-terveyspalvelut"
+    },
+    {
+      "name": "Coronavirus information - City of Tampere",
+      "link": "https://www.tampere.fi/en/social-and-health-services/coronavirus.html",
+      "organization": "City of Tampere social and health services"
+    }
+  ],
+  "twitterFeed": "Tamperekaupunki"
+}
