@@ -1,0 +1,15 @@
+{
+  "resources": [
+    {
+      "name": "Ministry of Health - Covid 19 page",
+      "link": "http://zdravstvo.gov.mk/korona-virus/",
+      "organization": "Ministry of Health of North Macedonia"
+    },
+	{
+	 "name": "Institute of public health",
+	"link": "http://www.iph.mk/",
+	"organization": "Institute of public health"
+	},
+  ],
+  "twitterFeed": "https://twitter.com/ZdravstvoMK"
+}
