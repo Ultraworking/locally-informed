@@ -6,10 +6,9 @@
       "organization": "[name of the organisation that published the resource, (Example — California State Government)]"
     },
     {
-      "name": "",
-      "link": "",
-      "organization": ""
+      "name": "[name of the Twitter Feed, (Example — Auckland Council Twitter Feed] — OPTIONAL",
+      "link": "[link to the resource, (Example — https://twitter.com/AklCouncil)] — OPTIONAL",
+      "organization": "[name of the organisation that published the resource, (Example — Auckland Council)] — OPTIONAL"
     }
-  ],
-  "twitterFeed": "[Twitter handle without the @, (Example — CAgovernor]. Note — only 1 is currently supported."
+  ]
 }
