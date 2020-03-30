@@ -4,7 +4,11 @@
       "name": "Información del nuevo coronavirus",
       "link": "https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus",
       "organization": "Consejeria de Sanidad — Comunidad de Madrid"
+    },
+    {
+      "name": "Comunidad de Madrid Twitter Feed",
+      "link": "https://twitter.com/ComunidadMadrid",
+      "organization": "Comunidad de Madrid"
     }
-  ],
-  "twitterFeed": "SaludMadrid"
+  ]
 }
