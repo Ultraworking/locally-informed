@@ -4,6 +4,21 @@
       "name": "Información actualizada sobre COVID-19",
       "link": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm",
       "organization": "Ministerio de Sanidad, Consumo y Bienestar Social"
+    },
+    {
+      "name": "Brote de enfermedad por coronavirus (COVID-19)",
+      "link": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019",
+      "organization": "Organización Mundial de la Salud (OMS) — World Health organization (WHO)"
+    },
+    {
+      "name": "Latest information on COVID-19",
+      "link": "https://www.ecdc.europa.eu/en/coronavirus",
+      "organization": "European Centre for Disease Prevention and Control"
+    },
+    {
+      "name": "Nuevas normativas estatales por el COVID-19 (Reales decretos-ley, órdenes, Instrucciones y resoluciones)",
+      "link": "https://administracion.gob.es/pag_Home/atencionCiudadana/Estado-de-alarma-crisis-sanitaria.html",
+      "organization": "Dirección General de Gobernanza Pública"
     }
   ],
   "twitterFeed": "sanidadgob"
