@@ -4,6 +4,16 @@
       "name": "Información para la población Salud Junta de Castilla y León",
       "link": "https://www.saludcastillayleon.es/profesionales/en/covid-19/informacion-poblacion",
       "organization": "Consejeria de Sanidad — Junta de Castilla y León"
+    },
+    {
+      "name": "Situación epidemiológica del coronavirus (COVID-19) en Castilla y León",
+      "link": "https://analisis.datosabiertos.jcyl.es/pages/coronavirus/",
+      "organization": "Consejeria de Sanidad — Junta de Castilla y León"
+    },
+    {
+      "name": "Decretos COVID-19 por el Ayuntamiento de Valladolid",
+      "link": "https://www.valladolid.es/es/decretos-covid-19",
+      "organization": "Ayuntamiento de Valladolid"
     }
   ],
   "twitterFeed": "Salud_JCYL"
