@@ -1,0 +1,10 @@
+{
+  "resources": [
+    {
+      "name": "Coronavirus disease (COVID-19)",
+      "link": "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html",
+      "organization": "Government of Canada"
+    },
+  ],
+  "twitterFeed": "govcanhealth"
+}
