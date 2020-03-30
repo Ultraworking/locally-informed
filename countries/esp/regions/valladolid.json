@@ -14,7 +14,11 @@
       "name": "Decretos COVID-19 por el Ayuntamiento de Valladolid",
       "link": "https://www.valladolid.es/es/decretos-covid-19",
       "organization": "Ayuntamiento de Valladolid"
+    },
+    {
+      "name": "Salud JCYL Twitter Feed",
+      "link": "https://twitter.com/Salud_JCYL",
+      "organization": "Salud JCYL"
     }
-  ],
-  "twitterFeed": "Salud_JCYL"
+  ]
 }
