@@ -9,7 +9,11 @@
       "name": "Haz tu autoevaluación del COVID-19",
       "link": "https://www.coronamadrid.com/",
       "organization": "Comunidad de Madrid"
+    }, 
+    {
+      "name": "Comunidad de Madrid Twitter Feed",
+      "link": "https://twitter.com/ComunidadMadrid",
+      "organization": "Comunidad de Madrid"
     }
-  ],
-  "twitterFeed": "SaludMadrid"
+  ]
 }

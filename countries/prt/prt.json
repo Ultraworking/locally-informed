@@ -1,0 +1,10 @@
+{
+  "resources": [
+    {
+      "name": "COVID-19",
+      "link": "https://covid19.min-saude.pt/",
+      "organization": "Governo de Portugal - Ministério da Saúde"
+    }
+  ],
+  "twitterFeed": "DGSaude"
+}

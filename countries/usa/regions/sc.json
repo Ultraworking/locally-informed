@@ -1,0 +1,29 @@
+{
+  "resources": [
+    {
+      "name": "SC DHEC - Coronavirus Disease 2019 (COVID-19)",
+      "link": "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19",
+      "organization": "South Carolina Department of Health and Environmental Control"
+    },
+    {
+      "name": "Testing & SC Data (COVID-19)",
+      "link": "https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19",
+      "organization": "South Carolina Department of Health and Environmental Control"
+    },
+    {
+      "name": "DHEC Response Activities (COVID-19)",
+      "link": "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/dhec-response-activities-covid-19",
+      "organization": "South Carolina Department of Health and Environmental Control"
+    },
+    {
+      "name": "SC DHEC - Twitter account",
+      "link": "https://twitter.com/scdhec",
+      "organization": "South Carolina Department of Health and Environmental Control"
+    },
+    {
+      "name": "Gov. Henry McMaster - Twitter account",
+      "link": "https://twitter.com/henrymcmaster",
+      "organization": "South Carolina Governor Henry McMaster"
+    }
+  ]
+}
