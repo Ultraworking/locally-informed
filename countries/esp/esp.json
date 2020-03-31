@@ -1,6 +1,11 @@
 {
   "resources": [
     {
+      "name": "Recursos oficiales digitales para combatir el COVID19",
+      "link": "https://coronavirus.es/",
+      "organization": "Gobierno de España: Vicepresidencia Tercera del Gobierto. Ministerio de asuntos económicos y transformación digital"
+    },
+    {
       "name": "Información actualizada sobre COVID-19",
       "link": "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm",
       "organization": "Ministerio de Sanidad, Consumo y Bienestar Social"
@@ -19,6 +24,11 @@
       "name": "Nuevas normativas estatales por el COVID-19 (Reales decretos-ley, órdenes, Instrucciones y resoluciones)",
       "link": "https://administracion.gob.es/pag_Home/atencionCiudadana/Estado-de-alarma-crisis-sanitaria.html",
       "organization": "Dirección General de Gobernanza Pública"
+    },
+    {
+      "name": "Recursospara pymes y autónomos frente al COVID-19",
+      "link": "https://acelerapyme.es/",
+      "organization": "Gobierno de España: Vicepresidencia Tercera del Gobierto. Ministerio de asuntos económicos y transformación digital"
     }
   ],
   "twitterFeed": "sanidadgob"
