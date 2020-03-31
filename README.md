@@ -1,9 +1,8 @@
 # Locally Informed — Official Resources by Location
 
-
 Covid-19 is causing considerable disruption worldwide and a lot of people don't know where to find information about the measures taken by their local governments.
 
-We created Locally Informed to help people identify all the key information relevant to their city, state/province, and nation. 
+We created Locally Informed to help people identify all the key information relevant to their city, state/province, and nation.
 
 Users can go to [local.quarantinesupport.com](https://local.quarantinesupport.com) to find all their relevant official sources. This is useful for people to get dialed-in to the right information sources and for other application developers, media, and institutions to help people stay on top of announcements for their region.
 
@@ -23,7 +22,7 @@ CTO, Ultraworking
 ![Directory Structure](https://i.ibb.co/5F1XZV1/Screenshot-2020-03-25-at-10-33-55-AM.png)
 
 - **\[COUNTRY_ISO_CODE\]**: The [3-Letter ISO Alpha-3 code](https://www.nationsonline.org/oneworld/country_code_list.htm) for the target country. (Example — `nzl` for New Zealand).
-- **\[REGION_NAME\]**: For USA, this will be the 2-Letter State code. (Example — `ca` for California). For all other countries, this will be the name of the target city. (Example — `kuala lumpur` for Kuala Lumpur City, Malaysia).
+- **\[REGION_NAME\]**: For USA, this will be the 2-Letter State code. (Example — `ca` for California). For all other countries, this will be the name of the target city. Note: If the name has a space, replace that with the `_` character. (Example — `kuala_lumpur` for Kuala Lumpur City, Malaysia).
 
 **NOTE: both the \[COUNTRY_ISO_CODE\] and \[REGION_NAME\] should be in lower case.**
 
