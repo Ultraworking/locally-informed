@@ -1,0 +1,14 @@
+
+  "resources": [
+    {
+      "name": "https://www.regjeringen.no/no/tema/koronavirus/id2692388/",
+      "link": "https://helsenorge.no/koronavirus",
+      "organization": "https://www.regjeringen.no/no/tema/koronavirus/id2692388/"
+    },
+    {
+      "name": "Covid19Norway ",
+      "link": "https://twitter.com/Covid19Norway",
+      "organization": "Covid19Norway"
+    }
+  ]
+}
