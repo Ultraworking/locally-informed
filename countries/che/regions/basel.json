@@ -1,10 +1,24 @@
 {
   "resources": [
     {
-      "name": "Informationen zum Coronavirus (COVID-19)",
+      "name": "Informationen zum Coronavirus (COVID-19) [Basel-Stadt]",
       "link": "https://www.coronavirus.bs.ch",
       "organization": "Kanton Basel-Stadt"
+    },
+    {
+      "name": "Offizielle Mitteilungen des Kantons Basel-Stadt und der Stadt Basel",
+      "link": "https://twitter.com/BaselStadt",
+      "organization": "Kanton Basel-Stadt"
+    },
+    {
+      "name": "Informationen zum Coronavirus (COVID-19) [Basel-Landschaft]",
+      "link": "https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles",
+      "organization": "Kanton Basel-Land"
+    },
+    {
+      "name": "Offizieller Twitter-Kanal des Kantons Basel-Landschaft. Der Account wird durch die Landeskanzlei betreut",
+      "link": "https://twitter.com/Kanton_BL/",
+      "organization": "Kanton Basel-Landschaft"
     }
-  ],
-  "twitterFeed": "BaselStadt"
+  ]
 }
