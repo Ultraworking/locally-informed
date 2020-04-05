@@ -1,0 +1,14 @@
+{
+  "resources": [
+    {
+      "name": "Coronavirus (COVID-19) in Nevada | Nevada Health Response",
+      "link": "https://nvhealthresponse.nv.gov/",
+      "organization": " Nevada Governor's Office & Nevada Department of Health and Human Services"
+    },
+    {
+      "name": "Dashboard for active cases, recoveries, and deaths in Nevada",
+      "link": "https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9",
+      "organization": "Department of Health and Human Services Office of Analytics"
+    }
+  ]
+}
