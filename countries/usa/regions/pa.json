@@ -4,6 +4,21 @@
       "name": "Information and updates about COVID-19 in Philadelphia, PA",
       "link": "https://www.phila.gov/COVID-19/",
       "organization": "City of Philadelphia"
+    },
+    {
+      "name": "COVID Cases in Pennsylvania",
+      "link": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
+      "organization": "PA Department of Health"
+    },
+    {
+      "name": "Twitter of PA Governor",
+      "link": "https://twitter.com/GovernorTomWolf",
+      "organization": "Office of Governor of PA"
+    },
+    {
+      "name": "Allegheny County Daily Updates",
+      "link": "https://www.alleghenycounty.us/Health-Department/Resources/COVID-19/COVID-19.aspx",
+      "organization": "Allegheny County Dept of Health"
     }
   ]
 }
