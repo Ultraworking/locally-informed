@@ -9,7 +9,13 @@
       "name": "Coronavirus (COVID-19) NHS Advice",
       "link": "https://www.nhs.uk/conditions/coronavirus-covid-19/",
       "organization": "NHS"
+    },
+    {
+      "name": "List of local mutual aid groups",
+      "link": "https://covidmutualaid.org/local-groups/",
+      "organization": "Public"
     }
+
   ],
   "twitterFeed": "phe_uk"
 }
