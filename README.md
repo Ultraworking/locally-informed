@@ -17,6 +17,12 @@ Thank you for helping and for spreading the word. Stay safe and strong out there
 Lee Knowlton
 CTO, Ultraworking
 
+## Updates
+
+### 9th April 2020
+
+- `local_region` for India has been updated from City-level to State-level.
+
 ## Directory Structure
 
 ![Directory Structure](https://i.ibb.co/5F1XZV1/Screenshot-2020-03-25-at-10-33-55-AM.png)
