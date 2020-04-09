@@ -21,7 +21,7 @@ CTO, Ultraworking
 
 ### 9th April 2020
 
-- `local_region` for India has been updated from City-level to State-level.
+- `regions` for India have been updated from City-level to State-level.
 
 ## Directory Structure
 
