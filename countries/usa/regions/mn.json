@@ -1,20 +1,19 @@
 {
-    "resources": [
-      {
-        "name": "Minnesota Governor Twitter",
-        "link": "https://twitter.com/tim_walz?lang=en",
-        "organization": "Minnesota Governor's Office"
-      },
-      {
-          "name": "MN Situation Update",
-          "link": "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
-          "organization": "Minnesota Department of Health"
-      },
-      {
-        "name": "Twitter Feed of MN Department of Health",
-        "link": "https://twitter.com/mnhealth",
-        "organization": "Minnesota Department of Health"
+  "resources": [
+    {
+      "name": "Minnesota Governor Twitter",
+      "link": "https://twitter.com/tim_walz?lang=en",
+      "organization": "Minnesota Governor's Office"
+    },
+    {
+      "name": "MN Situation Update",
+      "link": "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+      "organization": "Minnesota Department of Health"
+    },
+    {
+      "name": "Twitter Feed of MN Department of Health",
+      "link": "https://twitter.com/mnhealth",
+      "organization": "Minnesota Department of Health"
     }
-    ]
-  }
-  
+  ]
+}
