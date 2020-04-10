@@ -49,6 +49,16 @@
       "name": "Koronavírus - opatrenia",
       "link": "https://www.financnasprava.sk/sk/infoservis/koronavirus-opatrenia",
       "organization": "Finančná správa Slovenskej republiky"
+    },
+    {
+      "name": "Koronavírus - Mapa šírenia",
+      "link": "https://mapa.covid.chat/",
+      "organization": "N/A"
+    },
+    {
+      "name": "COVID-19 Mapa",
+      "link": "https://covid-19.radoondas.io",
+      "organization": "N/A"
     }
   ]
 }
