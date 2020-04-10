@@ -1,0 +1,29 @@
+{
+  "resources": [
+    {
+      "name": "COVID 19 – koronavírus",
+      "link": "http://www.miloslavov.sk/covid-19-koronavirus/",
+      "organization": "Obec Miloslavov"
+    },
+    {
+      "name": "Krízový štáb obce Miloslavov",
+      "link": "http://www.miloslavov.sk/covid-19-koronavirus/krizovy-stab/",
+      "organization": "Krízový štáb obce Miloslavov"
+    },
+    {
+      "name": "Súvisiace dokumenty - informácie",
+      "link": "http://www.miloslavov.sk/covid-19-koronavirus/krizovy-stab/#suvisiace-dokumenty-informacie",
+      "organization": "Obec Miloslavov"
+    },
+    {
+      "name": "Odporúčania pre ľudí",
+      "link": "http://www.miloslavov.sk/covid-19-koronavirus/krizovy-stab/#odporucania-pre-ludi",
+      "organization": "Obec Miloslavov"
+    },
+    {
+      "name": "Obec Miloslavov Facebook page",
+      "link": "https://www.facebook.com/MiloslavovObec/",
+      "organization": "Obec Miloslavov"
+    }
+  ]
+}

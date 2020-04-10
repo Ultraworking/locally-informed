@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "name": "Štátny web o koronavíruse s aktualizovaným počtom nakazených",
+      "link": "https://www.korona.gov.sk",
+      "organization": "Národné centrum zdravotníckych informácií"
+    },
+    {
+      "name": "Priebežne aktualizovaný počet nakazených s ich lokalizáciou na mape Slovenska",
+      "link": "https://portal.minv.sk/covid19map",
+      "organization": "Ministerstvo vnútra"
+    },
+    {
+      "name": "Situácia na hraniciach so susednými štátmi",
+      "link": "https://bit.ly/korona_hranice1",
+      "organization": "Polícia Slovenskej republiky"
+    },
+    {
+      "name": "Súhrn aktualít od MV SR",
+      "link": "http://www.minv.sk/?tlacove-spravy-2",
+      "organization": "Ministerstvo Vnútra Slovenskej republiky"
+    },
+    {
+      "name": "Úrad verejného zdravotníctva s infolinkami",
+      "link": "http://www.uvzsr.sk",
+      "organization": "Úrad verejného zdravotníctva "
+    },
+    {
+      "name": "Ministerstvo zdravotníctva SR",
+      "link": "https://www.health.gov.sk",
+      "organization": "Ministerstvo zdravotníctva SR"
+    },
+    {
+      "name": "Informácie o COVID-19",
+      "link": "https://www.vlada.gov.sk//informacie-o-covid-19/",
+      "organization": "Úrad vlády Slovenskej republiky"
+    },
+    {
+      "name": "Koronavírus – INFORMÁCIE",
+      "link": "https://www.ip.gov.sk/koronavirus-informacie/?ip=nip",
+      "organization": "Národný inšpektorát práce"
+    },
+    {
+      "name": "Koronavírus - opatrenia",
+      "link": "https://www.mfsr.sk/sk/koronavirus-informacie/",
+      "organization": "Ministerstvo financií Slovenskej republiky"
+    },
+    {
+      "name": "Koronavírus - opatrenia",
+      "link": "https://www.financnasprava.sk/sk/infoservis/koronavirus-opatrenia",
+      "organization": "Finančná správa Slovenskej republiky"
+    }
+  ]
+}
