@@ -1,0 +1,14 @@
+{
+  "resources": [
+    {
+      "name": "NC COVID-19 Dashboard",
+      "link": "https://www.ncdhhs.gov/divisions/public-health/covid19/covid-19-nc-case-count",
+      "organization": "North Carolina Dept of Health"
+    },
+    {
+      "name": "NC Dept of Health Twitter Updates",
+      "link": "https://twitter.com/ncdhhs",
+      "organization": "North Carolina Dept of Health Twitter"
+    }
+  ]
+}
